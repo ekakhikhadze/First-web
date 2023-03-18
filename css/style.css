@@ -1,0 +1,48 @@
+.body{
+    background-color: antiquewhite;
+} 
+.conteiner{
+    max-width: 1080px;
+    width: 100%;
+    margin: 0 auto;
+}
+.header{
+    display: flex;
+   justify-content: space-between;
+   
+}
+.ul{
+    display: flex;
+}
+.li{
+    padding-right: 40px;
+}
+:nth-child(4) {
+    padding-right: 45px;
+}
+.poto2021{
+    position: absolute;
+    height: 600px;
+}
+/* section */
+.wrapper{
+    display: flex;
+}
+.poto1{
+    width: 500px;
+    height: 400px;
+    padding-right: 50px;
+    padding-top: 70px;
+    position: relative;
+}
+.wrapper1{
+    justify-content: center;
+    align-items: center;
+}
+.first{
+    opacity: 0.5;
+}
+.poto2{
+    padding-left: 1100px;
+    
+}
